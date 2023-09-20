@@ -12,7 +12,7 @@ mutex mtx;
 
 class Customer {
  public:
-  int id;
+  int id;~
   string work;
   time_t timestamp;
 
